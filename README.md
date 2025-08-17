@@ -67,3 +67,6 @@ Open a **Discussion** with your stack/topic; I’ll tune a topic pack for you an
 
 ## License
 MIT — see [LICENSE](LICENSE).
+
+##👉 Join the discussion
+https://github.com/ChannelerH/indieradar-samples/discussions/1
